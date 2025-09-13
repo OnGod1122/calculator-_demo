@@ -1,4 +1,4 @@
-ipeline {
+pipeline {
 
     agent any
  
@@ -52,4 +52,4 @@ ipeline {
 
 }
 
- }
+}
