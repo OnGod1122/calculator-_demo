@@ -8,7 +8,7 @@ ipeline {
 
             steps {
 
-                git branch: 'main', url: ''
+                git branch: 'main', url: 'https://github.com/OnGod1122/calculator-_demo.git'
 
             }
 
